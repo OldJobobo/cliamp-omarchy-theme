@@ -48,3 +48,4 @@ Since cliamp reads its theme at startup, you may need to restart cliamp after th
 
 - [Omarchy](https://github.com/basecamp/omarchy)
 - [cliamp](https://github.com/bjarneo/cliamp/)
+- [imbypass/omarchy-theme-Hook](https://github.com/imbypass/omarchy-theme-hook)
