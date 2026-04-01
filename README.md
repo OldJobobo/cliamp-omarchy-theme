@@ -12,7 +12,7 @@ Every time you switch Omarchy themes, this hook regenerates a matching `omarchy.
 |------|---------|
 | `50-cliamp.sh` | Omarchy theme-set hook — deploys the theme |
 | `cliamp.toml.tpl` | Mustache template for live Omarchy theme rendering |
-| `cliamp.toml` | Reference theme (Watchmen palette) |
+| `cliamp.toml` | Reference theme
 
 ## Color Mapping
 
