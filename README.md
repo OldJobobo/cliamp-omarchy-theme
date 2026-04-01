@@ -40,7 +40,7 @@ cliamp must already have `~/.config/cliamp/config.toml` configured (with or with
 
 ## How it works
 
-The hook runs on every `omarchy theme set`. It reads the Omarchy theme's `colors.toml` (or the generated template), maps those colors to the 6 cliamp keys, and writes the result to `~/.config/cliamp/themes/omarchy.toml`. It also ensures `theme = "omarchy"` is set in cliamp's config.
+The hook runs on every `omarchy-theme-set`. It reads the Omarchy theme's `colors.toml` (or the generated template), maps those colors to the 6 cliamp keys, and writes the result to `~/.config/cliamp/themes/omarchy.toml`. It also ensures `theme = "omarchy"` is set in cliamp's config.
 
 Since cliamp reads its theme at startup, you may need to restart cliamp after the first run or after a theme switch.
 
