@@ -1,6 +1,5 @@
-# cliamp theme — Watchmen
-# Place at ~/.config/cliamp/themes/watchmen.toml
-# To set as default: add `theme = "watchmen"` to ~/.config/cliamp/config.toml
+# cliamp theme
+# To set as default: add `theme = "omarchy"` to ~/.config/cliamp/config.toml
 
 accent = "#2488cb"   # muted purple — primary interactive
 bright_fg = "#d2833b"  # warm parchment — primary text / time display
