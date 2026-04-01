@@ -75,7 +75,7 @@ Note: `accent` is **not** exported by `theme-set` hooks; use `${normal_blue}` as
 
 ### Naming Conventions
 
-- Theme TOML files: lowercase with hyphens (e.g., `watchmen.toml`)
+- Theme TOML files: lowercase with hyphens (e.g., `my-theme.toml`)
 - Hook scripts: `NN-name.sh` where `NN` is load order (40-cava.sh, 50-cliamp.sh, etc.)
 - Target theme name in cliamp: `omarchy.toml`
 
